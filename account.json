@@ -3,5 +3,8 @@
   "roles": {
     "1681294068": "reseller",
     "8924133614": "developer"
+  },
+  "userLimits": {
+    "1681294068": 3
   }
 }
