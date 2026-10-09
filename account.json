@@ -1,15 +1,6 @@
 {
   "accounts": [
     {
-      "id": "bd709eb0-b48c-428d-81a6-c8d52986cdac",
-      "username": "kyzoo",
-      "role": "reseller",
-      "accountKey": "D4B141E412969CE3B1",
-      "createdBy": "8099246240",
-      "createdByUsername": "Kyzoxd",
-      "createdAt": "2026-10-09T18:05:19.548Z"
-    },
-    {
       "id": "c7ad5001-e0f7-4d03-84a5-8c3e5506dc09",
       "username": "kyzoxd",
       "role": "reseller",
@@ -174,6 +165,13 @@
       "action": "ADD_LIMIT",
       "detail": "1180873542: +20",
       "createdAt": "2026-10-09T22:06:27.755Z"
+    },
+    {
+      "id": "bf867a72-676d-4062-80c0-698e073f23c1",
+      "actorId": "8099246240",
+      "action": "DELETE_ACCOUNT",
+      "detail": "kyzoo",
+      "createdAt": "2026-10-09T22:09:58.191Z"
     }
   ],
   "orders": [
