@@ -10,6 +10,13 @@
       "action": "BACKUP",
       "detail": "backups/database-2026-10-09T17-41-46-472Z.json",
       "createdAt": "2026-10-09T17:41:47.773Z"
+    },
+    {
+      "id": "c21783aa-65ff-44da-b59b-afdd19541c0e",
+      "actorId": "8099246240",
+      "action": "BACKUP",
+      "detail": "backups/database-2026-10-09T17-46-58-819Z.json",
+      "createdAt": "2026-10-09T17:46:59.998Z"
     }
   ]
 }
