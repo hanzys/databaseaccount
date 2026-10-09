@@ -1,5 +1,14 @@
-
 {
-  "accounts": [],
+  "accounts": [
+    {
+      "id": "960d0d39-adb9-4e0b-ae2b-b64b73984361",
+      "username": "kyzoo",
+      "role": "ceo",
+      "accountKey": "AF57683FDFB9BD1A5B",
+      "createdBy": "8099246240",
+      "createdByUsername": "Kyzoxd",
+      "createdAt": "2026-10-09T16:21:42.470Z"
+    }
+  ],
   "roles": {}
 }
