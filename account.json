@@ -231,6 +231,13 @@
       "action": "ORDER_CREATE",
       "detail": "954E6119 reseller 5000",
       "createdAt": "2026-10-09T22:47:29.916Z"
+    },
+    {
+      "id": "08a70407-d9b2-4976-a7bc-bbd7bf5efb7f",
+      "actorId": "1180873542",
+      "action": "ORDER_CANCELLED",
+      "detail": "954E6119 user 1180873542",
+      "createdAt": "2026-10-09T22:50:53.956Z"
     }
   ],
   "orders": [
@@ -311,9 +318,11 @@
       "uniqueCode": 0,
       "amount": 5000,
       "provider": "autogopay",
-      "status": "pending",
+      "status": "cancelled",
       "createdAt": "2026-10-09T22:47:29.916Z",
-      "expiresAt": "2026-10-09T23:17:29.916Z"
+      "expiresAt": "2026-10-09T23:17:29.916Z",
+      "closedBy": "1180873542",
+      "closedAt": "2026-10-09T22:50:53.956Z"
     }
   ]
 }
