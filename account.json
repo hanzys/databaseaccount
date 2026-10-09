@@ -3,5 +3,13 @@
   "roles": {},
   "userLimits": {},
   "bannedUsers": {},
-  "activityLogs": []
+  "activityLogs": [
+    {
+      "id": "7fc1be5f-f0f6-43bf-a8b1-dd71d70cbc23",
+      "actorId": "8099246240",
+      "action": "BACKUP",
+      "detail": "backups/database-2026-10-09T17-41-46-472Z.json",
+      "createdAt": "2026-10-09T17:41:47.773Z"
+    }
+  ]
 }
