@@ -150,6 +150,13 @@
       "action": "ORDER_CREATE",
       "detail": "6BCF723D reseller 15046",
       "createdAt": "2026-10-09T22:02:06.926Z"
+    },
+    {
+      "id": "e2f12140-7896-490a-8580-950fd3ea8b70",
+      "actorId": "1180873542",
+      "action": "ORDER_PROOF",
+      "detail": "6BCF723D user 1180873542",
+      "createdAt": "2026-10-09T22:03:03.570Z"
     }
   ],
   "orders": [
@@ -194,9 +201,11 @@
       "uniqueCode": 46,
       "amount": 15046,
       "provider": "manual",
-      "status": "pending",
+      "status": "waiting_confirm",
       "createdAt": "2026-10-09T22:02:06.924Z",
-      "expiresAt": "2026-10-09T22:32:06.924Z"
+      "expiresAt": "2026-10-09T22:32:06.924Z",
+      "proofAt": "2026-10-09T22:03:03.570Z",
+      "proofFileId": "AgACAgUAAxkBAANSaslklgqC9BH1hxyLFgFMWphG0d0AAn4QaxtxyVBW_1HXsILEjvwBAAMCAAN3AAM9BA"
     }
   ]
 }
