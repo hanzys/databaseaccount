@@ -8,6 +8,15 @@
       "createdBy": "8099246240",
       "createdByUsername": "Kyzoxd",
       "createdAt": "2026-10-09T18:05:19.548Z"
+    },
+    {
+      "id": "c7ad5001-e0f7-4d03-84a5-8c3e5506dc09",
+      "username": "kyzoxd",
+      "role": "reseller",
+      "accountKey": "485B8CED345CDD70A5",
+      "createdBy": "8196262609",
+      "createdByUsername": "Monzo_Banking_Admin4344",
+      "createdAt": "2026-10-09T18:35:15.511Z"
     }
   ],
   "roles": {
@@ -57,6 +66,13 @@
       "action": "BACKUP",
       "detail": "backups/database-2026-10-09T18-33-16-645Z.json",
       "createdAt": "2026-10-09T18:33:17.958Z"
+    },
+    {
+      "id": "af6c06c8-38b1-447e-87ea-cc9c6928a2a4",
+      "actorId": "8196262609",
+      "action": "CREATE_ACCOUNT",
+      "detail": "kyzoxd",
+      "createdAt": "2026-10-09T18:35:15.511Z"
     }
   ],
   "orders": [
