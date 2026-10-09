@@ -190,6 +190,13 @@
       "action": "ADD_LIMIT",
       "detail": "8804078143: +5",
       "createdAt": "2026-10-09T22:14:20.159Z"
+    },
+    {
+      "id": "801e6202-b53e-46e6-a965-77f7ba96451e",
+      "actorId": "8099246240",
+      "action": "SET_ROLE",
+      "detail": "8924133614: developer",
+      "createdAt": "2026-10-09T22:15:22.356Z"
     }
   ],
   "orders": [
