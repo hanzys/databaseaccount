@@ -88,6 +88,13 @@
       "action": "SET_ROLE",
       "detail": "8924133614: developer",
       "createdAt": "2026-10-09T18:43:39.893Z"
+    },
+    {
+      "id": "b9206542-6c4e-48ea-834d-cecec6c1da7a",
+      "actorId": "system",
+      "action": "ORDER_EXPIRED",
+      "detail": "3F6DC4F3 user 8196262609",
+      "createdAt": "2026-10-09T21:12:56.845Z"
     }
   ],
   "orders": [
@@ -117,9 +124,11 @@
       "uniqueCode": 64,
       "amount": 75064,
       "provider": "manual",
-      "status": "pending",
+      "status": "expired",
       "createdAt": "2026-10-09T18:36:14.535Z",
-      "expiresAt": "2026-10-09T19:06:14.535Z"
+      "expiresAt": "2026-10-09T19:06:14.535Z",
+      "closedBy": "system",
+      "closedAt": "2026-10-09T21:12:56.844Z"
     }
   ]
 }
