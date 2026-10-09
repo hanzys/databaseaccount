@@ -252,6 +252,13 @@
       "action": "ORDER_CANCELLED",
       "detail": "67F6C705 user 1180873542",
       "createdAt": "2026-10-09T23:02:59.177Z"
+    },
+    {
+      "id": "8965e88b-5cad-4c12-a503-25d9e09d84fa",
+      "actorId": "1180873542",
+      "action": "ORDER_CREATE",
+      "detail": "5C6F32E2 ceo 10000",
+      "createdAt": "2026-10-09T23:03:18.646Z"
     }
   ],
   "orders": [
@@ -352,6 +359,19 @@
       "expiresAt": "2026-10-09T23:21:04.802Z",
       "closedBy": "1180873542",
       "closedAt": "2026-10-09T23:02:59.176Z"
+    },
+    {
+      "id": "5C6F32E2",
+      "userId": "1180873542",
+      "username": "Kyzoxxd",
+      "role": "ceo",
+      "price": 10000,
+      "uniqueCode": 0,
+      "amount": 10000,
+      "provider": "autogopay",
+      "status": "pending",
+      "createdAt": "2026-10-09T23:03:18.646Z",
+      "expiresAt": "2026-10-09T23:33:18.646Z"
     }
   ]
 }
