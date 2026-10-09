@@ -10,7 +10,9 @@
       "createdAt": "2026-10-09T18:05:19.548Z"
     }
   ],
-  "roles": {},
+  "roles": {
+    "8196262609": "reseller"
+  },
   "userLimits": {},
   "bannedUsers": {},
   "activityLogs": [
@@ -41,6 +43,13 @@
       "action": "ORDER_CREATE",
       "detail": "13C439E2 reseller 15052",
       "createdAt": "2026-10-09T18:28:05.971Z"
+    },
+    {
+      "id": "d43447e3-3608-4444-afca-4c7487b10581",
+      "actorId": "8924133614",
+      "action": "UP_ROLE",
+      "detail": "8196262609: user -> reseller (order 13C439E2)",
+      "createdAt": "2026-10-09T18:28:54.342Z"
     }
   ],
   "orders": [
@@ -53,10 +62,13 @@
       "uniqueCode": 52,
       "amount": 15052,
       "provider": "manual",
-      "status": "waiting_confirm",
+      "status": "paid",
       "createdAt": "2026-10-09T18:28:05.970Z",
       "expiresAt": "2026-10-09T18:58:05.970Z",
-      "proofAt": "2026-10-09T18:28:36.958Z"
+      "proofAt": "2026-10-09T18:28:36.958Z",
+      "paidAt": "2026-10-09T18:28:54.342Z",
+      "confirmedBy": "8924133614",
+      "previousRole": "user"
     }
   ]
 }
