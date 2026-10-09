@@ -1,0 +1,74 @@
+{
+  "accounts": [
+    {
+      "id": "bd709eb0-b48c-428d-81a6-c8d52986cdac",
+      "username": "kyzoo",
+      "role": "reseller",
+      "accountKey": "D4B141E412969CE3B1",
+      "createdBy": "8099246240",
+      "createdByUsername": "Kyzoxd",
+      "createdAt": "2026-10-09T18:05:19.548Z"
+    }
+  ],
+  "roles": {
+    "8196262609": "reseller"
+  },
+  "userLimits": {},
+  "bannedUsers": {},
+  "activityLogs": [
+    {
+      "id": "7fc1be5f-f0f6-43bf-a8b1-dd71d70cbc23",
+      "actorId": "8099246240",
+      "action": "BACKUP",
+      "detail": "backups/database-2026-10-09T17-41-46-472Z.json",
+      "createdAt": "2026-10-09T17:41:47.773Z"
+    },
+    {
+      "id": "c21783aa-65ff-44da-b59b-afdd19541c0e",
+      "actorId": "8099246240",
+      "action": "BACKUP",
+      "detail": "backups/database-2026-10-09T17-46-58-819Z.json",
+      "createdAt": "2026-10-09T17:46:59.998Z"
+    },
+    {
+      "id": "0d966b46-2308-4161-b8f2-0447ff17f2b4",
+      "actorId": "8099246240",
+      "action": "CREATE_ACCOUNT",
+      "detail": "kyzoo",
+      "createdAt": "2026-10-09T18:05:19.548Z"
+    },
+    {
+      "id": "e9f2f0d2-be10-49bd-af7e-aebd4d9a8068",
+      "actorId": "8196262609",
+      "action": "ORDER_CREATE",
+      "detail": "13C439E2 reseller 15052",
+      "createdAt": "2026-10-09T18:28:05.971Z"
+    },
+    {
+      "id": "d43447e3-3608-4444-afca-4c7487b10581",
+      "actorId": "8924133614",
+      "action": "UP_ROLE",
+      "detail": "8196262609: user -> reseller (order 13C439E2)",
+      "createdAt": "2026-10-09T18:28:54.342Z"
+    }
+  ],
+  "orders": [
+    {
+      "id": "13C439E2",
+      "userId": "8196262609",
+      "username": "Monzo_Banking_Admin4344",
+      "role": "reseller",
+      "price": 15000,
+      "uniqueCode": 52,
+      "amount": 15052,
+      "provider": "manual",
+      "status": "paid",
+      "createdAt": "2026-10-09T18:28:05.970Z",
+      "expiresAt": "2026-10-09T18:58:05.970Z",
+      "proofAt": "2026-10-09T18:28:36.958Z",
+      "paidAt": "2026-10-09T18:28:54.342Z",
+      "confirmedBy": "8924133614",
+      "previousRole": "user"
+    }
+  ]
+}
