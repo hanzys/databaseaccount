@@ -224,6 +224,13 @@
       "action": "REMOVE_ROLE",
       "detail": "1180873542",
       "createdAt": "2026-10-09T22:47:10.865Z"
+    },
+    {
+      "id": "5197fcd4-162b-49c7-91f5-3da98d19a671",
+      "actorId": "1180873542",
+      "action": "ORDER_CREATE",
+      "detail": "954E6119 reseller 5000",
+      "createdAt": "2026-10-09T22:47:29.916Z"
     }
   ],
   "orders": [
@@ -294,6 +301,19 @@
       "paidAt": "2026-10-09T22:18:24.487Z",
       "confirmedBy": "8099246240",
       "previousRole": "reseller"
+    },
+    {
+      "id": "954E6119",
+      "userId": "1180873542",
+      "username": "Kyzoxxd",
+      "role": "reseller",
+      "price": 5000,
+      "uniqueCode": 0,
+      "amount": 5000,
+      "provider": "autogopay",
+      "status": "pending",
+      "createdAt": "2026-10-09T22:47:29.916Z",
+      "expiresAt": "2026-10-09T23:17:29.916Z"
     }
   ]
 }
