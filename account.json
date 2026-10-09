@@ -19,15 +19,6 @@
       "createdAt": "2026-10-09T21:44:07.311Z"
     },
     {
-      "id": "8b1cfb3f-ce44-4a5a-830c-0ad435518f39",
-      "username": "graax",
-      "role": "developer",
-      "accountKey": "CEEC41D48238875B3C",
-      "createdBy": "8099246240",
-      "createdByUsername": "Kyzoxd",
-      "createdAt": "2026-10-09T21:47:10.277Z"
-    },
-    {
       "id": "3410f723-de7e-4b14-8327-0e8ac169a228",
       "username": "graxx",
       "role": "developer",
@@ -172,6 +163,13 @@
       "action": "DELETE_ACCOUNT",
       "detail": "kyzoo",
       "createdAt": "2026-10-09T22:09:58.191Z"
+    },
+    {
+      "id": "eed6c2ee-049b-48e9-9fd6-3494e038d631",
+      "actorId": "8099246240",
+      "action": "DELETE_ACCOUNT",
+      "detail": "graax",
+      "createdAt": "2026-10-09T22:10:23.485Z"
     }
   ],
   "orders": [
