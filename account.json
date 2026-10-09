@@ -51,7 +51,9 @@
     "8196262609": "reseller",
     "8924133614": "developer"
   },
-  "userLimits": {},
+  "userLimits": {
+    "1180873542": 20
+  },
   "bannedUsers": {},
   "activityLogs": [
     {
@@ -165,6 +167,13 @@
       "action": "UP_ROLE",
       "detail": "1180873542: user -> reseller (order 6BCF723D)",
       "createdAt": "2026-10-09T22:03:23.306Z"
+    },
+    {
+      "id": "577d18fb-d292-43d4-bd3c-8ab995b7c9ae",
+      "actorId": "8099246240",
+      "action": "ADD_LIMIT",
+      "detail": "1180873542: +20",
+      "createdAt": "2026-10-09T22:06:27.755Z"
     }
   ],
   "orders": [
