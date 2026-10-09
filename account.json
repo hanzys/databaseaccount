@@ -50,6 +50,13 @@
       "action": "UP_ROLE",
       "detail": "8196262609: user -> reseller (order 13C439E2)",
       "createdAt": "2026-10-09T18:28:54.342Z"
+    },
+    {
+      "id": "60a826ba-92b0-4485-84d0-5341566b0490",
+      "actorId": "8924133614",
+      "action": "BACKUP",
+      "detail": "backups/database-2026-10-09T18-33-16-645Z.json",
+      "createdAt": "2026-10-09T18:33:17.958Z"
     }
   ],
   "orders": [
