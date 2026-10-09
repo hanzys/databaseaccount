@@ -1,5 +1,15 @@
 {
-  "accounts": [],
+  "accounts": [
+    {
+      "id": "bd709eb0-b48c-428d-81a6-c8d52986cdac",
+      "username": "kyzoo",
+      "role": "reseller",
+      "accountKey": "D4B141E412969CE3B1",
+      "createdBy": "8099246240",
+      "createdByUsername": "Kyzoxd",
+      "createdAt": "2026-10-09T18:05:19.548Z"
+    }
+  ],
   "roles": {},
   "userLimits": {},
   "bannedUsers": {},
@@ -17,6 +27,13 @@
       "action": "BACKUP",
       "detail": "backups/database-2026-10-09T17-46-58-819Z.json",
       "createdAt": "2026-10-09T17:46:59.998Z"
+    },
+    {
+      "id": "0d966b46-2308-4161-b8f2-0447ff17f2b4",
+      "actorId": "8099246240",
+      "action": "CREATE_ACCOUNT",
+      "detail": "kyzoo",
+      "createdAt": "2026-10-09T18:05:19.548Z"
     }
   ]
 }
