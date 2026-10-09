@@ -47,6 +47,7 @@
     }
   ],
   "roles": {
+    "1180873542": "reseller",
     "8196262609": "reseller",
     "8924133614": "developer"
   },
@@ -157,6 +158,13 @@
       "action": "ORDER_PROOF",
       "detail": "6BCF723D user 1180873542",
       "createdAt": "2026-10-09T22:03:03.570Z"
+    },
+    {
+      "id": "11a8b124-25b3-4cfc-aa7f-5fab9515bbe1",
+      "actorId": "8099246240",
+      "action": "UP_ROLE",
+      "detail": "1180873542: user -> reseller (order 6BCF723D)",
+      "createdAt": "2026-10-09T22:03:23.306Z"
     }
   ],
   "orders": [
@@ -201,11 +209,14 @@
       "uniqueCode": 46,
       "amount": 15046,
       "provider": "manual",
-      "status": "waiting_confirm",
+      "status": "paid",
       "createdAt": "2026-10-09T22:02:06.924Z",
       "expiresAt": "2026-10-09T22:32:06.924Z",
       "proofAt": "2026-10-09T22:03:03.570Z",
-      "proofFileId": "AgACAgUAAxkBAANSaslklgqC9BH1hxyLFgFMWphG0d0AAn4QaxtxyVBW_1HXsILEjvwBAAMCAAN3AAM9BA"
+      "proofFileId": "AgACAgUAAxkBAANSaslklgqC9BH1hxyLFgFMWphG0d0AAn4QaxtxyVBW_1HXsILEjvwBAAMCAAN3AAM9BA",
+      "paidAt": "2026-10-09T22:03:23.306Z",
+      "confirmedBy": "8099246240",
+      "previousRole": "user"
     }
   ]
 }
