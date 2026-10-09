@@ -371,7 +371,11 @@
       "provider": "autogopay",
       "status": "pending",
       "createdAt": "2026-10-09T23:03:18.646Z",
-      "expiresAt": "2026-10-09T23:33:18.646Z"
+      "expiresAt": "2026-10-09T23:33:18.646Z",
+      "qrString": "00020101021226380010ID.CO.GOPAY.WWW01189360000000000123455204000053033605802ID5914Indoapi Sandbox6007Jakarta6105123456304BF47",
+      "chargeCreatedAt": "2026-10-09T23:20:06.457Z",
+      "invoice": "INV-20261010-520ABB64",
+      "providerExpiredAt": "2026-10-10T06:35:06+07:00"
     }
   ]
 }
