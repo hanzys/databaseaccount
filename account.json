@@ -143,6 +143,13 @@
       "action": "CREATE_ACCOUNT",
       "detail": "graxx",
       "createdAt": "2026-10-09T21:48:22.797Z"
+    },
+    {
+      "id": "02ddfb22-fe30-4690-b489-40026c26b3ec",
+      "actorId": "1180873542",
+      "action": "ORDER_CREATE",
+      "detail": "6BCF723D reseller 15046",
+      "createdAt": "2026-10-09T22:02:06.926Z"
     }
   ],
   "orders": [
@@ -177,6 +184,19 @@
       "expiresAt": "2026-10-09T19:06:14.535Z",
       "closedBy": "system",
       "closedAt": "2026-10-09T21:12:56.844Z"
+    },
+    {
+      "id": "6BCF723D",
+      "userId": "1180873542",
+      "username": "Kyzoxxd",
+      "role": "reseller",
+      "price": 15000,
+      "uniqueCode": 46,
+      "amount": 15046,
+      "provider": "manual",
+      "status": "pending",
+      "createdAt": "2026-10-09T22:02:06.924Z",
+      "expiresAt": "2026-10-09T22:32:06.924Z"
     }
   ]
 }
