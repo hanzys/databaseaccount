@@ -1,15 +1,6 @@
 {
   "accounts": [
     {
-      "id": "c7ad5001-e0f7-4d03-84a5-8c3e5506dc09",
-      "username": "kyzoxd",
-      "role": "reseller",
-      "accountKey": "485B8CED345CDD70A5",
-      "createdBy": "8196262609",
-      "createdByUsername": "Monzo_Banking_Admin4344",
-      "createdAt": "2026-10-09T18:35:15.511Z"
-    },
-    {
       "id": "3410f723-de7e-4b14-8327-0e8ac169a228",
       "username": "graxx",
       "role": "developer",
@@ -168,6 +159,13 @@
       "action": "DELETE_ACCOUNT",
       "detail": "grax",
       "createdAt": "2026-10-09T22:10:26.118Z"
+    },
+    {
+      "id": "e463b83e-2c6f-498f-ac6e-12aa7ea26dfa",
+      "actorId": "8099246240",
+      "action": "DELETE_ACCOUNT",
+      "detail": "kyzoxd",
+      "createdAt": "2026-10-09T22:10:27.705Z"
     }
   ],
   "orders": [
