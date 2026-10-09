@@ -35,6 +35,15 @@
       "createdBy": "8099246240",
       "createdByUsername": "Kyzoxd",
       "createdAt": "2026-10-09T21:47:10.277Z"
+    },
+    {
+      "id": "3410f723-de7e-4b14-8327-0e8ac169a228",
+      "username": "graxx",
+      "role": "developer",
+      "accountKey": "2BF69CD13CDAE4102B",
+      "createdBy": "8099246240",
+      "createdByUsername": "Kyzoxd",
+      "createdAt": "2026-10-09T21:48:22.797Z"
     }
   ],
   "roles": {
@@ -127,6 +136,13 @@
       "action": "CREATE_ACCOUNT",
       "detail": "graax",
       "createdAt": "2026-10-09T21:47:10.278Z"
+    },
+    {
+      "id": "917fdff5-4c46-4987-95a8-bc7cbda3cf97",
+      "actorId": "8099246240",
+      "action": "CREATE_ACCOUNT",
+      "detail": "graxx",
+      "createdAt": "2026-10-09T21:48:22.797Z"
     }
   ],
   "orders": [
