@@ -12,6 +12,7 @@
   ],
   "roles": {
     "1180873542": "reseller",
+    "1681294068": "reseller",
     "8196262609": "reseller",
     "8924133614": "developer"
   },
@@ -166,6 +167,13 @@
       "action": "DELETE_ACCOUNT",
       "detail": "kyzoxd",
       "createdAt": "2026-10-09T22:10:27.705Z"
+    },
+    {
+      "id": "9ed74345-0047-484d-8b53-3868c3a5eca7",
+      "actorId": "8099246240",
+      "action": "SET_ROLE",
+      "detail": "1681294068: reseller",
+      "createdAt": "2026-10-09T22:13:02.694Z"
     }
   ],
   "orders": [
