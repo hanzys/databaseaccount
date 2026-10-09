@@ -197,6 +197,13 @@
       "action": "SET_ROLE",
       "detail": "8924133614: developer",
       "createdAt": "2026-10-09T22:15:22.356Z"
+    },
+    {
+      "id": "f17f88ed-c30d-441e-8808-8a7659a71258",
+      "actorId": "1180873542",
+      "action": "ORDER_CREATE",
+      "detail": "64171104 owner 75055",
+      "createdAt": "2026-10-09T22:17:49.358Z"
     }
   ],
   "orders": [
@@ -249,6 +256,19 @@
       "paidAt": "2026-10-09T22:03:23.306Z",
       "confirmedBy": "8099246240",
       "previousRole": "user"
+    },
+    {
+      "id": "64171104",
+      "userId": "1180873542",
+      "username": "Kyzoxxd",
+      "role": "owner",
+      "price": 75000,
+      "uniqueCode": 55,
+      "amount": 75055,
+      "provider": "manual",
+      "status": "pending",
+      "createdAt": "2026-10-09T22:17:49.358Z",
+      "expiresAt": "2026-10-09T22:47:49.358Z"
     }
   ]
 }
