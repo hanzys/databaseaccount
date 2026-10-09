@@ -204,6 +204,13 @@
       "action": "ORDER_CREATE",
       "detail": "64171104 owner 75055",
       "createdAt": "2026-10-09T22:17:49.358Z"
+    },
+    {
+      "id": "6ebe6170-cf16-47b6-9a7f-7da89839d457",
+      "actorId": "1180873542",
+      "action": "ORDER_PROOF",
+      "detail": "64171104 user 1180873542",
+      "createdAt": "2026-10-09T22:18:18.097Z"
     }
   ],
   "orders": [
@@ -266,9 +273,11 @@
       "uniqueCode": 55,
       "amount": 75055,
       "provider": "manual",
-      "status": "pending",
+      "status": "waiting_confirm",
       "createdAt": "2026-10-09T22:17:49.358Z",
-      "expiresAt": "2026-10-09T22:47:49.358Z"
+      "expiresAt": "2026-10-09T22:47:49.358Z",
+      "proofAt": "2026-10-09T22:18:18.097Z",
+      "proofFileId": "AgACAgUAAxkBAANSaslklgqC9BH1hxyLFgFMWphG0d0AAn4QaxtxyVBW_1HXsILEjvwBAAMCAAN3AAM9BA"
     }
   ]
 }
