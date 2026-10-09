@@ -266,6 +266,13 @@
       "action": "ORDER_EXPIRED",
       "detail": "5C6F32E2 user 1180873542",
       "createdAt": "2026-10-09T23:33:34.139Z"
+    },
+    {
+      "id": "96bb7e9b-9430-439b-8142-d78bfad83b5f",
+      "actorId": "1180873542",
+      "action": "ORDER_CREATE",
+      "detail": "0A0DDBDA reseller 5000",
+      "createdAt": "2026-10-09T23:40:43.173Z"
     }
   ],
   "orders": [
@@ -385,6 +392,19 @@
       "providerExpiredAt": "2026-10-10T06:35:06+07:00",
       "closedBy": "system",
       "closedAt": "2026-10-09T23:33:34.138Z"
+    },
+    {
+      "id": "0A0DDBDA",
+      "userId": "1180873542",
+      "username": "Kyzoxxd",
+      "role": "reseller",
+      "price": 5000,
+      "uniqueCode": 0,
+      "amount": 5000,
+      "provider": "autogopay",
+      "status": "pending",
+      "createdAt": "2026-10-09T23:40:43.173Z",
+      "expiresAt": "2026-10-10T00:10:43.173Z"
     }
   ]
 }
