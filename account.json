@@ -14,7 +14,8 @@
     "1180873542": "reseller",
     "1681294068": "reseller",
     "8196262609": "reseller",
-    "8924133614": "developer"
+    "8924133614": "developer",
+    "8804078143": "reseller"
   },
   "userLimits": {
     "1180873542": 20
@@ -174,6 +175,13 @@
       "action": "SET_ROLE",
       "detail": "1681294068: reseller",
       "createdAt": "2026-10-09T22:13:02.694Z"
+    },
+    {
+      "id": "33d7c1bb-923d-4f73-9fae-4d1ef0158da0",
+      "actorId": "8099246240",
+      "action": "SET_ROLE",
+      "detail": "8804078143: reseller",
+      "createdAt": "2026-10-09T22:14:06.552Z"
     }
   ],
   "orders": [
