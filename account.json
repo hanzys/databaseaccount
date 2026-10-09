@@ -20,7 +20,8 @@
     }
   ],
   "roles": {
-    "8196262609": "reseller"
+    "8196262609": "reseller",
+    "8924133614": "developer"
   },
   "userLimits": {},
   "bannedUsers": {},
@@ -80,6 +81,13 @@
       "action": "ORDER_CREATE",
       "detail": "3F6DC4F3 owner 75064",
       "createdAt": "2026-10-09T18:36:14.535Z"
+    },
+    {
+      "id": "1af00d16-5de8-4064-8f8c-dae66ac9e0bf",
+      "actorId": "8099246240",
+      "action": "SET_ROLE",
+      "detail": "8924133614: developer",
+      "createdAt": "2026-10-09T18:43:39.893Z"
     }
   ],
   "orders": [
