@@ -287,6 +287,13 @@
       "action": "BACKUP",
       "detail": "backups/database-2026-10-10T00-25-13-138Z.json",
       "createdAt": "2026-10-10T00:25:14.450Z"
+    },
+    {
+      "id": "a162ffdc-06fc-4505-8d8e-19ee0436704d",
+      "actorId": "8099246240",
+      "action": "SET_ROLE",
+      "detail": "8924133614: developer",
+      "createdAt": "2026-10-10T21:38:57.877Z"
     }
   ],
   "orders": [
