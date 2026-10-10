@@ -273,6 +273,13 @@
       "action": "ORDER_CREATE",
       "detail": "0A0DDBDA reseller 5000",
       "createdAt": "2026-10-09T23:40:43.173Z"
+    },
+    {
+      "id": "f7e8f104-1168-432e-b42e-c7b8487f838c",
+      "actorId": "system",
+      "action": "ORDER_EXPIRED",
+      "detail": "0A0DDBDA user 1180873542",
+      "createdAt": "2026-10-10T00:11:02.286Z"
     }
   ],
   "orders": [
@@ -402,13 +409,15 @@
       "uniqueCode": 0,
       "amount": 5000,
       "provider": "autogopay",
-      "status": "pending",
+      "status": "expired",
       "createdAt": "2026-10-09T23:40:43.173Z",
       "expiresAt": "2026-10-10T00:10:43.173Z",
       "qrString": "00020101021226380010ID.CO.GOPAY.WWW01189360000000000123455204000053033605802ID5914Indoapi Sandbox6007Jakarta6105123456304BF47",
       "chargeCreatedAt": "2026-10-09T23:40:44.896Z",
       "invoice": "INV-20261010-EC57E174",
-      "providerExpiredAt": "2026-10-10T06:55:44+07:00"
+      "providerExpiredAt": "2026-10-10T06:55:44+07:00",
+      "closedBy": "system",
+      "closedAt": "2026-10-10T00:11:02.286Z"
     }
   ]
 }
