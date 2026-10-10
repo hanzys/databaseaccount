@@ -315,6 +315,13 @@
       "action": "REMOVE_ROLE",
       "detail": "8203936216",
       "createdAt": "2026-10-10T23:21:34.970Z"
+    },
+    {
+      "id": "37caf21a-f7d5-456e-b2cb-4d597563529d",
+      "actorId": "8924133614",
+      "action": "ADD_TOKEN",
+      "detail": "8991…388:AAH•••8I8",
+      "createdAt": "2026-10-10T23:47:59.756Z"
     }
   ],
   "orders": [
