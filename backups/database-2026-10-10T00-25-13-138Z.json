@@ -1,0 +1,423 @@
+{
+  "accounts": [
+    {
+      "id": "3410f723-de7e-4b14-8327-0e8ac169a228",
+      "username": "graxx",
+      "role": "developer",
+      "accountKey": "2BF69CD13CDAE4102B",
+      "createdBy": "8099246240",
+      "createdByUsername": "Kyzoxd",
+      "createdAt": "2026-10-09T21:48:22.797Z"
+    }
+  ],
+  "roles": {
+    "1681294068": "reseller",
+    "8196262609": "reseller",
+    "8924133614": "developer",
+    "8804078143": "reseller"
+  },
+  "userLimits": {
+    "1180873542": 20,
+    "8804078143": 5
+  },
+  "bannedUsers": {},
+  "activityLogs": [
+    {
+      "id": "7fc1be5f-f0f6-43bf-a8b1-dd71d70cbc23",
+      "actorId": "8099246240",
+      "action": "BACKUP",
+      "detail": "backups/database-2026-10-09T17-41-46-472Z.json",
+      "createdAt": "2026-10-09T17:41:47.773Z"
+    },
+    {
+      "id": "c21783aa-65ff-44da-b59b-afdd19541c0e",
+      "actorId": "8099246240",
+      "action": "BACKUP",
+      "detail": "backups/database-2026-10-09T17-46-58-819Z.json",
+      "createdAt": "2026-10-09T17:46:59.998Z"
+    },
+    {
+      "id": "0d966b46-2308-4161-b8f2-0447ff17f2b4",
+      "actorId": "8099246240",
+      "action": "CREATE_ACCOUNT",
+      "detail": "kyzoo",
+      "createdAt": "2026-10-09T18:05:19.548Z"
+    },
+    {
+      "id": "e9f2f0d2-be10-49bd-af7e-aebd4d9a8068",
+      "actorId": "8196262609",
+      "action": "ORDER_CREATE",
+      "detail": "13C439E2 reseller 15052",
+      "createdAt": "2026-10-09T18:28:05.971Z"
+    },
+    {
+      "id": "d43447e3-3608-4444-afca-4c7487b10581",
+      "actorId": "8924133614",
+      "action": "UP_ROLE",
+      "detail": "8196262609: user -> reseller (order 13C439E2)",
+      "createdAt": "2026-10-09T18:28:54.342Z"
+    },
+    {
+      "id": "60a826ba-92b0-4485-84d0-5341566b0490",
+      "actorId": "8924133614",
+      "action": "BACKUP",
+      "detail": "backups/database-2026-10-09T18-33-16-645Z.json",
+      "createdAt": "2026-10-09T18:33:17.958Z"
+    },
+    {
+      "id": "af6c06c8-38b1-447e-87ea-cc9c6928a2a4",
+      "actorId": "8196262609",
+      "action": "CREATE_ACCOUNT",
+      "detail": "kyzoxd",
+      "createdAt": "2026-10-09T18:35:15.511Z"
+    },
+    {
+      "id": "af2bfaf7-fce3-4f5f-9191-3f9e0e55531e",
+      "actorId": "8196262609",
+      "action": "ORDER_CREATE",
+      "detail": "3F6DC4F3 owner 75064",
+      "createdAt": "2026-10-09T18:36:14.535Z"
+    },
+    {
+      "id": "1af00d16-5de8-4064-8f8c-dae66ac9e0bf",
+      "actorId": "8099246240",
+      "action": "SET_ROLE",
+      "detail": "8924133614: developer",
+      "createdAt": "2026-10-09T18:43:39.893Z"
+    },
+    {
+      "id": "b9206542-6c4e-48ea-834d-cecec6c1da7a",
+      "actorId": "system",
+      "action": "ORDER_EXPIRED",
+      "detail": "3F6DC4F3 user 8196262609",
+      "createdAt": "2026-10-09T21:12:56.845Z"
+    },
+    {
+      "id": "c95ec268-5a1c-4440-999d-2aa9b787783f",
+      "actorId": "8099246240",
+      "action": "CREATE_ACCOUNT",
+      "detail": "grax",
+      "createdAt": "2026-10-09T21:44:07.312Z"
+    },
+    {
+      "id": "f52c0383-e7a8-4dde-a673-19e53e587eac",
+      "actorId": "8099246240",
+      "action": "CREATE_ACCOUNT",
+      "detail": "graax",
+      "createdAt": "2026-10-09T21:47:10.278Z"
+    },
+    {
+      "id": "917fdff5-4c46-4987-95a8-bc7cbda3cf97",
+      "actorId": "8099246240",
+      "action": "CREATE_ACCOUNT",
+      "detail": "graxx",
+      "createdAt": "2026-10-09T21:48:22.797Z"
+    },
+    {
+      "id": "02ddfb22-fe30-4690-b489-40026c26b3ec",
+      "actorId": "1180873542",
+      "action": "ORDER_CREATE",
+      "detail": "6BCF723D reseller 15046",
+      "createdAt": "2026-10-09T22:02:06.926Z"
+    },
+    {
+      "id": "e2f12140-7896-490a-8580-950fd3ea8b70",
+      "actorId": "1180873542",
+      "action": "ORDER_PROOF",
+      "detail": "6BCF723D user 1180873542",
+      "createdAt": "2026-10-09T22:03:03.570Z"
+    },
+    {
+      "id": "11a8b124-25b3-4cfc-aa7f-5fab9515bbe1",
+      "actorId": "8099246240",
+      "action": "UP_ROLE",
+      "detail": "1180873542: user -> reseller (order 6BCF723D)",
+      "createdAt": "2026-10-09T22:03:23.306Z"
+    },
+    {
+      "id": "577d18fb-d292-43d4-bd3c-8ab995b7c9ae",
+      "actorId": "8099246240",
+      "action": "ADD_LIMIT",
+      "detail": "1180873542: +20",
+      "createdAt": "2026-10-09T22:06:27.755Z"
+    },
+    {
+      "id": "bf867a72-676d-4062-80c0-698e073f23c1",
+      "actorId": "8099246240",
+      "action": "DELETE_ACCOUNT",
+      "detail": "kyzoo",
+      "createdAt": "2026-10-09T22:09:58.191Z"
+    },
+    {
+      "id": "eed6c2ee-049b-48e9-9fd6-3494e038d631",
+      "actorId": "8099246240",
+      "action": "DELETE_ACCOUNT",
+      "detail": "graax",
+      "createdAt": "2026-10-09T22:10:23.485Z"
+    },
+    {
+      "id": "1ab08b98-22f8-467b-80c2-8a1bf8f03ed9",
+      "actorId": "8099246240",
+      "action": "DELETE_ACCOUNT",
+      "detail": "grax",
+      "createdAt": "2026-10-09T22:10:26.118Z"
+    },
+    {
+      "id": "e463b83e-2c6f-498f-ac6e-12aa7ea26dfa",
+      "actorId": "8099246240",
+      "action": "DELETE_ACCOUNT",
+      "detail": "kyzoxd",
+      "createdAt": "2026-10-09T22:10:27.705Z"
+    },
+    {
+      "id": "9ed74345-0047-484d-8b53-3868c3a5eca7",
+      "actorId": "8099246240",
+      "action": "SET_ROLE",
+      "detail": "1681294068: reseller",
+      "createdAt": "2026-10-09T22:13:02.694Z"
+    },
+    {
+      "id": "33d7c1bb-923d-4f73-9fae-4d1ef0158da0",
+      "actorId": "8099246240",
+      "action": "SET_ROLE",
+      "detail": "8804078143: reseller",
+      "createdAt": "2026-10-09T22:14:06.552Z"
+    },
+    {
+      "id": "96c50529-e917-48f4-966b-812406b710f0",
+      "actorId": "8099246240",
+      "action": "ADD_LIMIT",
+      "detail": "8804078143: +5",
+      "createdAt": "2026-10-09T22:14:20.159Z"
+    },
+    {
+      "id": "801e6202-b53e-46e6-a965-77f7ba96451e",
+      "actorId": "8099246240",
+      "action": "SET_ROLE",
+      "detail": "8924133614: developer",
+      "createdAt": "2026-10-09T22:15:22.356Z"
+    },
+    {
+      "id": "f17f88ed-c30d-441e-8808-8a7659a71258",
+      "actorId": "1180873542",
+      "action": "ORDER_CREATE",
+      "detail": "64171104 owner 75055",
+      "createdAt": "2026-10-09T22:17:49.358Z"
+    },
+    {
+      "id": "6ebe6170-cf16-47b6-9a7f-7da89839d457",
+      "actorId": "1180873542",
+      "action": "ORDER_PROOF",
+      "detail": "64171104 user 1180873542",
+      "createdAt": "2026-10-09T22:18:18.097Z"
+    },
+    {
+      "id": "dfefb1b4-639d-4b5d-8375-aee9e4e5648f",
+      "actorId": "8099246240",
+      "action": "UP_ROLE",
+      "detail": "1180873542: reseller -> owner (order 64171104)",
+      "createdAt": "2026-10-09T22:18:24.487Z"
+    },
+    {
+      "id": "2934b0c3-dc86-49e5-9828-6f3b64a44d12",
+      "actorId": "8099246240",
+      "action": "REMOVE_ROLE",
+      "detail": "1180873542",
+      "createdAt": "2026-10-09T22:47:10.865Z"
+    },
+    {
+      "id": "5197fcd4-162b-49c7-91f5-3da98d19a671",
+      "actorId": "1180873542",
+      "action": "ORDER_CREATE",
+      "detail": "954E6119 reseller 5000",
+      "createdAt": "2026-10-09T22:47:29.916Z"
+    },
+    {
+      "id": "08a70407-d9b2-4976-a7bc-bbd7bf5efb7f",
+      "actorId": "1180873542",
+      "action": "ORDER_CANCELLED",
+      "detail": "954E6119 user 1180873542",
+      "createdAt": "2026-10-09T22:50:53.956Z"
+    },
+    {
+      "id": "811b1c2d-407a-469e-aa3a-77351125aa4c",
+      "actorId": "1180873542",
+      "action": "ORDER_CREATE",
+      "detail": "67F6C705 owner 15000",
+      "createdAt": "2026-10-09T22:51:04.802Z"
+    },
+    {
+      "id": "f583d655-7ab3-4bfe-aa77-a5cefc4451df",
+      "actorId": "1180873542",
+      "action": "ORDER_CANCELLED",
+      "detail": "67F6C705 user 1180873542",
+      "createdAt": "2026-10-09T23:02:59.177Z"
+    },
+    {
+      "id": "8965e88b-5cad-4c12-a503-25d9e09d84fa",
+      "actorId": "1180873542",
+      "action": "ORDER_CREATE",
+      "detail": "5C6F32E2 ceo 10000",
+      "createdAt": "2026-10-09T23:03:18.646Z"
+    },
+    {
+      "id": "9f4d14fb-0fec-4260-b9b4-e6abe39d3005",
+      "actorId": "system",
+      "action": "ORDER_EXPIRED",
+      "detail": "5C6F32E2 user 1180873542",
+      "createdAt": "2026-10-09T23:33:34.139Z"
+    },
+    {
+      "id": "96bb7e9b-9430-439b-8142-d78bfad83b5f",
+      "actorId": "1180873542",
+      "action": "ORDER_CREATE",
+      "detail": "0A0DDBDA reseller 5000",
+      "createdAt": "2026-10-09T23:40:43.173Z"
+    },
+    {
+      "id": "f7e8f104-1168-432e-b42e-c7b8487f838c",
+      "actorId": "system",
+      "action": "ORDER_EXPIRED",
+      "detail": "0A0DDBDA user 1180873542",
+      "createdAt": "2026-10-10T00:11:02.286Z"
+    }
+  ],
+  "orders": [
+    {
+      "id": "13C439E2",
+      "userId": "8196262609",
+      "username": "Monzo_Banking_Admin4344",
+      "role": "reseller",
+      "price": 15000,
+      "uniqueCode": 52,
+      "amount": 15052,
+      "provider": "manual",
+      "status": "paid",
+      "createdAt": "2026-10-09T18:28:05.970Z",
+      "expiresAt": "2026-10-09T18:58:05.970Z",
+      "proofAt": "2026-10-09T18:28:36.958Z",
+      "paidAt": "2026-10-09T18:28:54.342Z",
+      "confirmedBy": "8924133614",
+      "previousRole": "user"
+    },
+    {
+      "id": "3F6DC4F3",
+      "userId": "8196262609",
+      "username": "Monzo_Banking_Admin4344",
+      "role": "owner",
+      "price": 75000,
+      "uniqueCode": 64,
+      "amount": 75064,
+      "provider": "manual",
+      "status": "expired",
+      "createdAt": "2026-10-09T18:36:14.535Z",
+      "expiresAt": "2026-10-09T19:06:14.535Z",
+      "closedBy": "system",
+      "closedAt": "2026-10-09T21:12:56.844Z"
+    },
+    {
+      "id": "6BCF723D",
+      "userId": "1180873542",
+      "username": "Kyzoxxd",
+      "role": "reseller",
+      "price": 15000,
+      "uniqueCode": 46,
+      "amount": 15046,
+      "provider": "manual",
+      "status": "paid",
+      "createdAt": "2026-10-09T22:02:06.924Z",
+      "expiresAt": "2026-10-09T22:32:06.924Z",
+      "proofAt": "2026-10-09T22:03:03.570Z",
+      "proofFileId": "AgACAgUAAxkBAANSaslklgqC9BH1hxyLFgFMWphG0d0AAn4QaxtxyVBW_1HXsILEjvwBAAMCAAN3AAM9BA",
+      "paidAt": "2026-10-09T22:03:23.306Z",
+      "confirmedBy": "8099246240",
+      "previousRole": "user"
+    },
+    {
+      "id": "64171104",
+      "userId": "1180873542",
+      "username": "Kyzoxxd",
+      "role": "owner",
+      "price": 75000,
+      "uniqueCode": 55,
+      "amount": 75055,
+      "provider": "manual",
+      "status": "paid",
+      "createdAt": "2026-10-09T22:17:49.358Z",
+      "expiresAt": "2026-10-09T22:47:49.358Z",
+      "proofAt": "2026-10-09T22:18:18.097Z",
+      "proofFileId": "AgACAgUAAxkBAANSaslklgqC9BH1hxyLFgFMWphG0d0AAn4QaxtxyVBW_1HXsILEjvwBAAMCAAN3AAM9BA",
+      "paidAt": "2026-10-09T22:18:24.487Z",
+      "confirmedBy": "8099246240",
+      "previousRole": "reseller"
+    },
+    {
+      "id": "954E6119",
+      "userId": "1180873542",
+      "username": "Kyzoxxd",
+      "role": "reseller",
+      "price": 5000,
+      "uniqueCode": 0,
+      "amount": 5000,
+      "provider": "autogopay",
+      "status": "cancelled",
+      "createdAt": "2026-10-09T22:47:29.916Z",
+      "expiresAt": "2026-10-09T23:17:29.916Z",
+      "closedBy": "1180873542",
+      "closedAt": "2026-10-09T22:50:53.956Z"
+    },
+    {
+      "id": "67F6C705",
+      "userId": "1180873542",
+      "username": "Kyzoxxd",
+      "role": "owner",
+      "price": 15000,
+      "uniqueCode": 0,
+      "amount": 15000,
+      "provider": "autogopay",
+      "status": "cancelled",
+      "createdAt": "2026-10-09T22:51:04.802Z",
+      "expiresAt": "2026-10-09T23:21:04.802Z",
+      "closedBy": "1180873542",
+      "closedAt": "2026-10-09T23:02:59.176Z"
+    },
+    {
+      "id": "5C6F32E2",
+      "userId": "1180873542",
+      "username": "Kyzoxxd",
+      "role": "ceo",
+      "price": 10000,
+      "uniqueCode": 0,
+      "amount": 10000,
+      "provider": "autogopay",
+      "status": "expired",
+      "createdAt": "2026-10-09T23:03:18.646Z",
+      "expiresAt": "2026-10-09T23:33:18.646Z",
+      "qrString": "00020101021226380010ID.CO.GOPAY.WWW01189360000000000123455204000053033605802ID5914Indoapi Sandbox6007Jakarta6105123456304BF47",
+      "chargeCreatedAt": "2026-10-09T23:20:06.457Z",
+      "invoice": "INV-20261010-520ABB64",
+      "providerExpiredAt": "2026-10-10T06:35:06+07:00",
+      "closedBy": "system",
+      "closedAt": "2026-10-09T23:33:34.138Z"
+    },
+    {
+      "id": "0A0DDBDA",
+      "userId": "1180873542",
+      "username": "Kyzoxxd",
+      "role": "reseller",
+      "price": 5000,
+      "uniqueCode": 0,
+      "amount": 5000,
+      "provider": "autogopay",
+      "status": "expired",
+      "createdAt": "2026-10-09T23:40:43.173Z",
+      "expiresAt": "2026-10-10T00:10:43.173Z",
+      "qrString": "00020101021226380010ID.CO.GOPAY.WWW01189360000000000123455204000053033605802ID5914Indoapi Sandbox6007Jakarta6105123456304BF47",
+      "chargeCreatedAt": "2026-10-09T23:40:44.896Z",
+      "invoice": "INV-20261010-EC57E174",
+      "providerExpiredAt": "2026-10-10T06:55:44+07:00",
+      "closedBy": "system",
+      "closedAt": "2026-10-10T00:11:02.286Z"
+    }
+  ]
+}
