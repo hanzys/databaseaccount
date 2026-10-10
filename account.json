@@ -280,6 +280,13 @@
       "action": "ORDER_EXPIRED",
       "detail": "0A0DDBDA user 1180873542",
       "createdAt": "2026-10-10T00:11:02.286Z"
+    },
+    {
+      "id": "ab36e189-5dcc-4db6-955d-b2baa28b614d",
+      "actorId": "8099246240",
+      "action": "BACKUP",
+      "detail": "backups/database-2026-10-10T00-25-13-138Z.json",
+      "createdAt": "2026-10-10T00:25:14.450Z"
     }
   ],
   "orders": [
