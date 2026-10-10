@@ -294,6 +294,13 @@
       "action": "SET_ROLE",
       "detail": "8924133614: developer",
       "createdAt": "2026-10-10T21:38:57.877Z"
+    },
+    {
+      "id": "481a7cab-e797-4c28-a494-c06c5db40f4e",
+      "actorId": "8924133614",
+      "action": "ADD_TOKEN",
+      "detail": "8871…776:AAG•••S-I",
+      "createdAt": "2026-10-10T21:41:26.206Z"
     }
   ],
   "orders": [
