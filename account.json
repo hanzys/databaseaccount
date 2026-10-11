@@ -342,6 +342,13 @@
       "action": "ADD_TOKEN",
       "detail": "8915…764:AAG•••dBQ",
       "createdAt": "2026-10-11T04:34:38.946Z"
+    },
+    {
+      "id": "b224b530-667d-45ac-86ab-626b8a7b2327",
+      "actorId": "7649018723",
+      "action": "ORDER_CREATE",
+      "detail": "F78AEFCE owner 15000",
+      "createdAt": "2026-10-11T13:21:40.725Z"
     }
   ],
   "orders": [
@@ -480,6 +487,19 @@
       "providerExpiredAt": "2026-10-10T06:55:44+07:00",
       "closedBy": "system",
       "closedAt": "2026-10-10T00:11:02.286Z"
+    },
+    {
+      "id": "F78AEFCE",
+      "userId": "7649018723",
+      "username": "rizpediaa",
+      "role": "owner",
+      "price": 15000,
+      "uniqueCode": 0,
+      "amount": 15000,
+      "provider": "autogopay",
+      "status": "pending",
+      "createdAt": "2026-10-11T13:21:40.723Z",
+      "expiresAt": "2026-10-11T13:51:40.723Z"
     }
   ]
 }
