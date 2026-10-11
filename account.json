@@ -13,7 +13,8 @@
   "roles": {
     "8196262609": "reseller",
     "8924133614": "developer",
-    "8804078143": "reseller"
+    "8804078143": "reseller",
+    "7649018723": "reseller"
   },
   "userLimits": {
     "1180873542": 20,
@@ -356,6 +357,13 @@
       "action": "ORDER_CANCELLED",
       "detail": "F78AEFCE user 7649018723",
       "createdAt": "2026-10-11T13:22:19.411Z"
+    },
+    {
+      "id": "03e32cb4-ed87-43b7-81c6-602e9114f9f4",
+      "actorId": "8099246240",
+      "action": "SET_ROLE",
+      "detail": "7649018723: reseller",
+      "createdAt": "2026-10-11T13:22:32.291Z"
     }
   ],
   "orders": [
