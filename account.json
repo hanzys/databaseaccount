@@ -349,6 +349,13 @@
       "action": "ORDER_CREATE",
       "detail": "F78AEFCE owner 15000",
       "createdAt": "2026-10-11T13:21:40.725Z"
+    },
+    {
+      "id": "cfbf9c83-9e05-4275-b108-11eaa681a7bf",
+      "actorId": "7649018723",
+      "action": "ORDER_CANCELLED",
+      "detail": "F78AEFCE user 7649018723",
+      "createdAt": "2026-10-11T13:22:19.411Z"
     }
   ],
   "orders": [
@@ -497,9 +504,11 @@
       "uniqueCode": 0,
       "amount": 15000,
       "provider": "autogopay",
-      "status": "pending",
+      "status": "cancelled",
       "createdAt": "2026-10-11T13:21:40.723Z",
-      "expiresAt": "2026-10-11T13:51:40.723Z"
+      "expiresAt": "2026-10-11T13:51:40.723Z",
+      "closedBy": "7649018723",
+      "closedAt": "2026-10-11T13:22:19.411Z"
     }
   ]
 }
