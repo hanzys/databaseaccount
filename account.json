@@ -371,6 +371,13 @@
       "action": "ORDER_CREATE",
       "detail": "4EE4E962 ceo 10000",
       "createdAt": "2026-10-11T13:23:01.923Z"
+    },
+    {
+      "id": "02a0b32a-6775-42a0-8152-167b7b8c4523",
+      "actorId": "system",
+      "action": "ORDER_EXPIRED",
+      "detail": "4EE4E962 user 7649018723",
+      "createdAt": "2026-10-11T13:53:11.920Z"
     }
   ],
   "orders": [
@@ -534,9 +541,11 @@
       "uniqueCode": 0,
       "amount": 10000,
       "provider": "autogopay",
-      "status": "pending",
+      "status": "expired",
       "createdAt": "2026-10-11T13:23:01.922Z",
-      "expiresAt": "2026-10-11T13:53:01.922Z"
+      "expiresAt": "2026-10-11T13:53:01.922Z",
+      "closedBy": "system",
+      "closedAt": "2026-10-11T13:53:11.917Z"
     }
   ]
 }
