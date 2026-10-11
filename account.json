@@ -378,6 +378,13 @@
       "action": "ORDER_EXPIRED",
       "detail": "4EE4E962 user 7649018723",
       "createdAt": "2026-10-11T13:53:11.920Z"
+    },
+    {
+      "id": "9da43c1b-9bbd-483c-a19b-801fc25d87ea",
+      "actorId": "8099246240",
+      "action": "ADD_TOKEN",
+      "detail": "8739…254:AAH•••yWA",
+      "createdAt": "2026-10-11T19:23:09.388Z"
     }
   ],
   "orders": [
