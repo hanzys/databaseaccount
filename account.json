@@ -385,6 +385,13 @@
       "action": "ADD_TOKEN",
       "detail": "8739…254:AAH•••yWA",
       "createdAt": "2026-10-11T19:23:09.388Z"
+    },
+    {
+      "id": "b243da70-52be-43c6-9d2b-3e37cbe4201c",
+      "actorId": "8724358514",
+      "action": "ADD_TOKEN",
+      "detail": "8922…772:AAF•••zqw",
+      "createdAt": "2026-10-12T20:23:23.993Z"
     }
   ],
   "orders": [
