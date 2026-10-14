@@ -451,6 +451,13 @@
       "action": "ADD_TOKEN",
       "detail": "8888…101:AAH•••c4k | Role: developer | Kuota: UNLIMITED",
       "createdAt": "2026-10-14T13:01:05.288Z"
+    },
+    {
+      "id": "b74d011e-9c64-4df2-8241-b9581203572f",
+      "actorId": "system",
+      "action": "ORDER_EXPIRED",
+      "detail": "B841032B user 7649018723",
+      "createdAt": "2026-10-14T13:24:56.796Z"
     }
   ],
   "orders": [
@@ -629,9 +636,11 @@
       "uniqueCode": 0,
       "amount": 20000,
       "provider": "autogopay",
-      "status": "pending",
+      "status": "expired",
       "createdAt": "2026-10-14T12:54:49.462Z",
-      "expiresAt": "2026-10-14T13:24:49.462Z"
+      "expiresAt": "2026-10-14T13:24:49.462Z",
+      "closedBy": "system",
+      "closedAt": "2026-10-14T13:24:56.796Z"
     }
   ]
 }
