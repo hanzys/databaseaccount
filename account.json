@@ -1,17 +1,17 @@
-
 {
+  "limits": {
+    "reseller": 3,
+    "ceo": 6,
+    "owner": 14,
+    "developer": -1
+  },
+  "usage": {},
   "accounts": [
     {
       "id": "uuid-akun-123",
       "username": "kyzoxd",
       "role": "reseller",
       "accountKey": "kyzoxd"
-    },
-    {
-      "id": "uuid-akun-456",
-      "username": "contohowner",
-      "role": "developer",
-      "accountKey": "ganti_dengan_key_unik_lain"
     }
   ]
 }
