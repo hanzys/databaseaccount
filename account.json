@@ -423,6 +423,13 @@
       "action": "SET_ROLE",
       "detail": "8394348261: owner",
       "createdAt": "2026-10-14T02:34:29.141Z"
+    },
+    {
+      "id": "fa4f5ed2-6381-466b-b397-cb68b11c7089",
+      "actorId": "8924133614",
+      "action": "ADD_TOKEN",
+      "detail": "8971…343:AAG•••-HY",
+      "createdAt": "2026-10-14T02:39:31.354Z"
     }
   ],
   "orders": [
