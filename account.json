@@ -437,6 +437,13 @@
       "action": "SET_ROLE",
       "detail": "8394348261: owner",
       "createdAt": "2026-10-14T12:12:16.844Z"
+    },
+    {
+      "id": "eb0dec3a-740b-45fa-a60e-e1833dfe8652",
+      "actorId": "7649018723",
+      "action": "ORDER_CREATE",
+      "detail": "B841032B owner 20000",
+      "createdAt": "2026-10-14T12:54:49.464Z"
     }
   ],
   "orders": [
@@ -605,6 +612,19 @@
       "expiresAt": "2026-10-11T13:53:01.922Z",
       "closedBy": "system",
       "closedAt": "2026-10-11T13:53:11.917Z"
+    },
+    {
+      "id": "B841032B",
+      "userId": "7649018723",
+      "username": "rizpediaa",
+      "role": "owner",
+      "price": 20000,
+      "uniqueCode": 0,
+      "amount": 20000,
+      "provider": "autogopay",
+      "status": "pending",
+      "createdAt": "2026-10-14T12:54:49.462Z",
+      "expiresAt": "2026-10-14T13:24:49.462Z"
     }
   ]
 }
