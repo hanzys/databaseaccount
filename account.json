@@ -480,6 +480,13 @@
       "action": "ADD_ROLE",
       "detail": "1180873542:owner",
       "createdAt": "2026-10-14T14:05:28.428Z"
+    },
+    {
+      "id": "29ffe6bd-61d4-4f90-8366-39eb9427f517",
+      "actorId": "8724358514",
+      "action": "SET_ROLE",
+      "detail": "1180873542: owner",
+      "createdAt": "2026-10-14T14:18:59.346Z"
     }
   ],
   "orders": [
