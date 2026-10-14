@@ -430,6 +430,13 @@
       "action": "ADD_TOKEN",
       "detail": "8971…343:AAG•••-HY",
       "createdAt": "2026-10-14T02:39:31.354Z"
+    },
+    {
+      "id": "64ae8a98-7ee5-4aab-b613-46ea589b1cbe",
+      "actorId": "8724358514",
+      "action": "SET_ROLE",
+      "detail": "8394348261: owner",
+      "createdAt": "2026-10-14T12:12:16.844Z"
     }
   ],
   "orders": [
