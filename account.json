@@ -24,7 +24,7 @@
     "8924133614": "developer",
     "8804078143": "reseller",
     "7649018723": "reseller",
-    "8394348261": "owner"
+    "8394348261": "reseller"
   },
   "userLimits": {
     "1180873542": 20,
@@ -465,6 +465,13 @@
       "action": "SET_ROLE",
       "detail": "8394348261: owner",
       "createdAt": "2026-10-14T13:29:18.050Z"
+    },
+    {
+      "id": "7049e1db-3d5a-4598-9134-580ee6942e7f",
+      "actorId": "8724358514",
+      "action": "SET_ROLE",
+      "detail": "8394348261: reseller",
+      "createdAt": "2026-10-14T13:32:34.890Z"
     }
   ],
   "orders": [
