@@ -20,7 +20,6 @@
     }
   ],
   "roles": {
-    "1180873542": "owner",
     "8196262609": "reseller",
     "8924133614": "developer",
     "8804078143": "reseller",
@@ -494,6 +493,13 @@
       "action": "SET_ROLE",
       "detail": "8394348261: owner",
       "createdAt": "2026-10-14T14:20:01.679Z"
+    },
+    {
+      "id": "3be54466-10af-4fab-b5f9-a4f01f2b58f8",
+      "actorId": "8724358514",
+      "action": "REMOVE_ROLE",
+      "detail": "1180873542",
+      "createdAt": "2026-10-14T14:53:42.362Z"
     }
   ],
   "orders": [
