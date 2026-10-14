@@ -24,7 +24,7 @@
     "8924133614": "developer",
     "8804078143": "reseller",
     "7649018723": "reseller",
-    "8394348261": "ceo"
+    "8394348261": "owner"
   },
   "userLimits": {
     "1180873542": 20,
@@ -416,6 +416,13 @@
       "action": "CREATE_ACCOUNT",
       "detail": "yanz",
       "createdAt": "2026-10-14T02:31:00.388Z"
+    },
+    {
+      "id": "2f713261-db46-4cb8-956d-5be51aeea435",
+      "actorId": "8924133614",
+      "action": "SET_ROLE",
+      "detail": "8394348261: owner",
+      "createdAt": "2026-10-14T02:34:29.141Z"
     }
   ],
   "orders": [
