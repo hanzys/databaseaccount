@@ -507,6 +507,13 @@
       "action": "BACKUP",
       "detail": "backups/database-2026-10-14T17-41-22-165Z.json",
       "createdAt": "2026-10-14T17:41:23.910Z"
+    },
+    {
+      "id": "71bc5a8a-159f-432a-a519-864c23383f79",
+      "actorId": "8724358514",
+      "action": "BACKUP",
+      "detail": "backups/database-2026-10-14T17-41-46-434Z.json",
+      "createdAt": "2026-10-14T17:41:48.440Z"
     }
   ],
   "orders": [
