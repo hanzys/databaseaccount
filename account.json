@@ -444,6 +444,13 @@
       "action": "ORDER_CREATE",
       "detail": "B841032B owner 20000",
       "createdAt": "2026-10-14T12:54:49.464Z"
+    },
+    {
+      "id": "be048d17-8839-4329-a033-ace4fa11cd9f",
+      "actorId": "8724358514",
+      "action": "ADD_TOKEN",
+      "detail": "8888…101:AAH•••c4k | Role: developer | Kuota: UNLIMITED",
+      "createdAt": "2026-10-14T13:01:05.288Z"
     }
   ],
   "orders": [
