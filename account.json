@@ -8,6 +8,15 @@
       "createdBy": "8099246240",
       "createdByUsername": "Kyzoxd",
       "createdAt": "2026-10-09T21:48:22.797Z"
+    },
+    {
+      "id": "c0dbde9c-9e64-452c-8b73-cab24cfebc51",
+      "username": "yanz",
+      "role": "reseller",
+      "accountKey": "F4D063915ADC3416BE",
+      "createdBy": "8394348261",
+      "createdByUsername": "BRIYAN_OFFICIAL_1",
+      "createdAt": "2026-10-14T02:31:00.388Z"
     }
   ],
   "roles": {
@@ -400,6 +409,13 @@
       "action": "SET_ROLE",
       "detail": "8394348261: ceo",
       "createdAt": "2026-10-14T01:57:44.101Z"
+    },
+    {
+      "id": "266cc04a-060a-494c-9c9e-0c4bc83cb51e",
+      "actorId": "8394348261",
+      "action": "CREATE_ACCOUNT",
+      "detail": "yanz",
+      "createdAt": "2026-10-14T02:31:00.388Z"
     }
   ],
   "orders": [
