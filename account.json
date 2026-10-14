@@ -458,6 +458,13 @@
       "action": "ORDER_EXPIRED",
       "detail": "B841032B user 7649018723",
       "createdAt": "2026-10-14T13:24:56.796Z"
+    },
+    {
+      "id": "6814fdb9-76eb-4ead-946c-bd5646d0e5b9",
+      "actorId": "8724358514",
+      "action": "SET_ROLE",
+      "detail": "8394348261: owner",
+      "createdAt": "2026-10-14T13:29:18.050Z"
     }
   ],
   "orders": [
