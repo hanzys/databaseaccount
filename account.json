@@ -500,6 +500,13 @@
       "action": "REMOVE_ROLE",
       "detail": "1180873542",
       "createdAt": "2026-10-14T14:53:42.362Z"
+    },
+    {
+      "id": "c9627295-b75b-45d3-86b0-1e215c338ac8",
+      "actorId": "8724358514",
+      "action": "BACKUP",
+      "detail": "backups/database-2026-10-14T17-41-22-165Z.json",
+      "createdAt": "2026-10-14T17:41:23.910Z"
     }
   ],
   "orders": [
