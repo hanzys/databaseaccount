@@ -10,7 +10,7 @@
     {
       "id": "uuid-akun-456",
       "username": "contohowner",
-      "role": "owner",
+      "role": "developer",
       "accountKey": "ganti_dengan_key_unik_lain"
     }
   ]
