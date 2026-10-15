@@ -7,7 +7,7 @@
   },
   "usage": {
     "1180873542": 1,
-    "8724358514": 3,
+    "8724358514": 4,
     "8924133614": 1
   },
   "accounts": [
@@ -28,6 +28,12 @@
       "username": "sagara",
       "role": "reseller",
       "accountKey": "1FD0A1CA149B69D3A4"
+    },
+    {
+      "id": "229f7806-39e8-49b8-addf-4cf3c37e668c",
+      "username": "bryan",
+      "role": "developer",
+      "accountKey": "43942D0477FEAF866D"
     }
   ],
   "roles": {
@@ -128,6 +134,13 @@
       "action": "SET_ROLE",
       "detail": "8394348261: developer",
       "createdAt": "2026-10-15T14:01:43.539Z"
+    },
+    {
+      "id": "6c80ad10-ef03-4922-86a4-20b52006e5eb",
+      "actorId": "8724358514",
+      "action": "CREATE_ACCOUNT",
+      "detail": "bryan",
+      "createdAt": "2026-10-15T14:27:31.384Z"
     }
   ]
 }
