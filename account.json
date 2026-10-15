@@ -25,7 +25,6 @@
     }
   ],
   "roles": {
-    "1180873542": "reseller",
     "8924133614": "developer",
     "8394348261": "owner"
   },
@@ -88,6 +87,13 @@
       "action": "DELETE_ACCOUNT",
       "detail": "pler",
       "createdAt": "2026-10-15T01:15:42.015Z"
+    },
+    {
+      "id": "4775c7bf-6c64-4674-8c93-d1bd50809d5f",
+      "actorId": "8724358514",
+      "action": "ROLE_REMOVED",
+      "detail": "1180873542: reseller",
+      "createdAt": "2026-10-15T03:16:02.149Z"
     }
   ]
 }
