@@ -7,7 +7,7 @@
   },
   "usage": {
     "1180873542": 1,
-    "8724358514": 4,
+    "8724358514": 5,
     "8924133614": 1
   },
   "accounts": [
@@ -34,6 +34,12 @@
       "username": "bryan",
       "role": "developer",
       "accountKey": "43942D0477FEAF866D"
+    },
+    {
+      "id": "8b839ea8-0d9a-4d20-bcfe-67603a768e1f",
+      "username": "ngtes",
+      "role": "reseller",
+      "accountKey": "F8E8ADDD04675BFD1E"
     }
   ],
   "roles": {
@@ -141,6 +147,13 @@
       "action": "CREATE_ACCOUNT",
       "detail": "bryan",
       "createdAt": "2026-10-15T14:27:31.384Z"
+    },
+    {
+      "id": "db478e10-4424-463a-be2d-0c2383971e62",
+      "actorId": "8724358514",
+      "action": "CREATE_ACCOUNT",
+      "detail": "ngtes",
+      "createdAt": "2026-10-15T21:25:49.700Z"
     }
   ]
 }
