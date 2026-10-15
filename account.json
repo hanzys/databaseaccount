@@ -7,7 +7,7 @@
   },
   "usage": {
     "1180873542": 1,
-    "8724358514": 6,
+    "8724358514": 7,
     "8924133614": 1
   },
   "accounts": [
@@ -46,6 +46,12 @@
       "username": "ngtess",
       "role": "reseller",
       "accountKey": "972F2638DE5844466D"
+    },
+    {
+      "id": "5bca1a3a-6e00-4b70-aff6-e0954ddf3b9a",
+      "username": "ngtesss",
+      "role": "reseller",
+      "accountKey": "8371AC97CCE190550C"
     }
   ],
   "roles": {
@@ -167,6 +173,13 @@
       "action": "CREATE_ACCOUNT",
       "detail": "ngtess",
       "createdAt": "2026-10-15T21:43:19.630Z"
+    },
+    {
+      "id": "3002f9f5-30fb-48b3-833a-a1c6b27761c7",
+      "actorId": "8724358514",
+      "action": "CREATE_ACCOUNT",
+      "detail": "ngtesss",
+      "createdAt": "2026-10-15T21:50:12.760Z"
     }
   ]
 }
