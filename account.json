@@ -6,7 +6,8 @@
     "developer": -1
   },
   "usage": {
-    "8724358514": 1
+    "8724358514": 1,
+    "8924133614": 1
   },
   "accounts": [
     {
@@ -20,6 +21,12 @@
       "username": "vero",
       "role": "developer",
       "accountKey": "B53F7499D47F90A8F7"
+    },
+    {
+      "id": "d2523ea6-eb2f-4ee3-a2db-6d7d3ad3a516",
+      "username": "pler",
+      "role": "reseller",
+      "accountKey": "19862954E54937CE15"
     }
   ],
   "roles": {
@@ -42,6 +49,13 @@
       "action": "SET_ROLE",
       "detail": "8924133614: developer",
       "createdAt": "2026-10-15T01:07:08.597Z"
+    },
+    {
+      "id": "969549e9-7c3d-42f5-bc36-11acac29b80f",
+      "actorId": "8924133614",
+      "action": "CREATE_ACCOUNT",
+      "detail": "pler",
+      "createdAt": "2026-10-15T01:08:22.335Z"
     }
   ]
 }
