@@ -22,12 +22,6 @@
       "username": "vero",
       "role": "developer",
       "accountKey": "B53F7499D47F90A8F7"
-    },
-    {
-      "id": "14b702ef-d2c6-430a-b270-e668f80d8ce9",
-      "username": "rara",
-      "role": "reseller",
-      "accountKey": "E82E08A4BBD41E29A6"
     }
   ],
   "roles": {
@@ -107,6 +101,13 @@
       "action": "CREATE_ACCOUNT",
       "detail": "rara",
       "createdAt": "2026-10-15T03:23:01.118Z"
+    },
+    {
+      "id": "1ea30c64-e991-496b-b421-979a63a325b9",
+      "actorId": "8724358514",
+      "action": "DELETE_ACCOUNT",
+      "detail": "rara",
+      "createdAt": "2026-10-15T03:24:26.971Z"
     }
   ]
 }
