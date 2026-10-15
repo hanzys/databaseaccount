@@ -30,6 +30,7 @@
     }
   ],
   "roles": {
+    "1180873542": "reseller",
     "8924133614": "developer"
   },
   "orders": [],
@@ -56,6 +57,13 @@
       "action": "CREATE_ACCOUNT",
       "detail": "pler",
       "createdAt": "2026-10-15T01:08:22.335Z"
+    },
+    {
+      "id": "3b267346-018c-4a36-87f9-5d8b8113fd37",
+      "actorId": "8724358514",
+      "action": "SET_ROLE",
+      "detail": "1180873542: reseller",
+      "createdAt": "2026-10-15T01:09:21.385Z"
     }
   ]
 }
