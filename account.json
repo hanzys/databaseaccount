@@ -34,12 +34,6 @@
       "username": "bryan",
       "role": "developer",
       "accountKey": "43942D0477FEAF866D"
-    },
-    {
-      "id": "693342e6-b841-410d-8da0-12b20d29fc33",
-      "username": "ngtessss",
-      "role": "reseller",
-      "accountKey": "F32268EDF7622F6F3B"
     }
   ],
   "roles": {
@@ -196,6 +190,13 @@
       "action": "DELETE_ACCOUNT",
       "detail": "ngtesss",
       "createdAt": "2026-10-15T21:54:58.889Z"
+    },
+    {
+      "id": "e9cf0582-f0bc-47a2-ace6-b63e8cd1d350",
+      "actorId": "8724358514",
+      "action": "DELETE_ACCOUNT",
+      "detail": "ngtessss",
+      "createdAt": "2026-10-15T21:55:09.416Z"
     }
   ]
 }
