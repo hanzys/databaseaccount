@@ -36,12 +36,6 @@
       "accountKey": "43942D0477FEAF866D"
     },
     {
-      "id": "71d146f0-cddc-41a1-98db-52e22e0c9afe",
-      "username": "ngtess",
-      "role": "reseller",
-      "accountKey": "972F2638DE5844466D"
-    },
-    {
       "id": "5bca1a3a-6e00-4b70-aff6-e0954ddf3b9a",
       "username": "ngtesss",
       "role": "reseller",
@@ -194,6 +188,13 @@
       "action": "DELETE_ACCOUNT",
       "detail": "ngtes",
       "createdAt": "2026-10-15T21:54:44.344Z"
+    },
+    {
+      "id": "7bf2e0eb-b3be-4a1c-9c9c-017e9323df50",
+      "actorId": "8724358514",
+      "action": "DELETE_ACCOUNT",
+      "detail": "ngtess",
+      "createdAt": "2026-10-15T21:54:50.068Z"
     }
   ]
 }
