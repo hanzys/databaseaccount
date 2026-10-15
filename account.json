@@ -38,7 +38,8 @@
   ],
   "roles": {
     "1180873542": "reseller",
-    "8924133614": "developer"
+    "8924133614": "developer",
+    "8394348261": "owner"
   },
   "orders": [],
   "userLimits": {},
@@ -78,6 +79,13 @@
       "action": "CREATE_ACCOUNT",
       "detail": "japar",
       "createdAt": "2026-10-15T01:09:58.568Z"
+    },
+    {
+      "id": "a446bc53-509c-4d43-b8ea-be3421944a3b",
+      "actorId": "8724358514",
+      "action": "SET_ROLE",
+      "detail": "8394348261: owner",
+      "createdAt": "2026-10-15T01:12:36.493Z"
     }
   ]
 }
