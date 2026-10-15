@@ -22,7 +22,9 @@
       "accountKey": "B53F7499D47F90A8F7"
     }
   ],
-  "roles": {},
+  "roles": {
+    "8924133614": "developer"
+  },
   "orders": [],
   "userLimits": {},
   "bannedUsers": {},
@@ -33,6 +35,13 @@
       "action": "CREATE_ACCOUNT",
       "detail": "vero",
       "createdAt": "2026-10-15T00:55:57.871Z"
+    },
+    {
+      "id": "f26b87d2-14a6-4f7e-9164-db10382c12ad",
+      "actorId": "8724358514",
+      "action": "SET_ROLE",
+      "detail": "8924133614: developer",
+      "createdAt": "2026-10-15T01:07:08.597Z"
     }
   ]
 }
