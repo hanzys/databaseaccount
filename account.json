@@ -5,13 +5,34 @@
     "owner": 14,
     "developer": -1
   },
-  "usage": {},
+  "usage": {
+    "8724358514": 1
+  },
   "accounts": [
     {
       "id": "Kyzoo Ganteng",
       "username": "kyzoxd",
       "role": "developer",
       "accountKey": "kyzoxd"
+    },
+    {
+      "id": "d0fe4ee9-42b4-46ae-aac6-ee03de313415",
+      "username": "vero",
+      "role": "developer",
+      "accountKey": "B53F7499D47F90A8F7"
+    }
+  ],
+  "roles": {},
+  "orders": [],
+  "userLimits": {},
+  "bannedUsers": {},
+  "activityLogs": [
+    {
+      "id": "5c0a6ca3-0746-4536-8b3a-0aba32b4148f",
+      "actorId": "8724358514",
+      "action": "CREATE_ACCOUNT",
+      "detail": "vero",
+      "createdAt": "2026-10-15T00:55:57.871Z"
     }
   ]
 }
