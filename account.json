@@ -32,7 +32,7 @@
   ],
   "roles": {
     "8924133614": "developer",
-    "8394348261": "owner"
+    "8394348261": "developer"
   },
   "orders": [],
   "userLimits": {},
@@ -121,6 +121,13 @@
       "action": "CREATE_ACCOUNT",
       "detail": "sagara",
       "createdAt": "2026-10-15T11:06:12.896Z"
+    },
+    {
+      "id": "0daa12fc-2142-4ee7-a2a5-e4c46c43e39a",
+      "actorId": "8724358514",
+      "action": "SET_ROLE",
+      "detail": "8394348261: developer",
+      "createdAt": "2026-10-15T14:01:43.539Z"
     }
   ]
 }
