@@ -7,7 +7,7 @@
   },
   "usage": {
     "1180873542": 1,
-    "8724358514": 1,
+    "8724358514": 2,
     "8924133614": 1
   },
   "accounts": [
@@ -22,6 +22,12 @@
       "username": "vero",
       "role": "developer",
       "accountKey": "B53F7499D47F90A8F7"
+    },
+    {
+      "id": "14b702ef-d2c6-430a-b270-e668f80d8ce9",
+      "username": "rara",
+      "role": "reseller",
+      "accountKey": "E82E08A4BBD41E29A6"
     }
   ],
   "roles": {
@@ -94,6 +100,13 @@
       "action": "ROLE_REMOVED",
       "detail": "1180873542: reseller",
       "createdAt": "2026-10-15T03:16:02.149Z"
+    },
+    {
+      "id": "785dc1ce-fcab-4bfc-9769-348639f0a646",
+      "actorId": "8724358514",
+      "action": "CREATE_ACCOUNT",
+      "detail": "rara",
+      "createdAt": "2026-10-15T03:23:01.118Z"
     }
   ]
 }
