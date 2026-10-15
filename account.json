@@ -6,6 +6,7 @@
     "developer": -1
   },
   "usage": {
+    "1180873542": 1,
     "8724358514": 1,
     "8924133614": 1
   },
@@ -27,6 +28,12 @@
       "username": "pler",
       "role": "reseller",
       "accountKey": "19862954E54937CE15"
+    },
+    {
+      "id": "78883156-45e0-4fc1-bb48-d2006b075fc1",
+      "username": "japar",
+      "role": "reseller",
+      "accountKey": "FCD7330C69E51B031C"
     }
   ],
   "roles": {
@@ -64,6 +71,13 @@
       "action": "SET_ROLE",
       "detail": "1180873542: reseller",
       "createdAt": "2026-10-15T01:09:21.385Z"
+    },
+    {
+      "id": "7e9213d2-0131-4854-b597-433acc3f0154",
+      "actorId": "1180873542",
+      "action": "CREATE_ACCOUNT",
+      "detail": "japar",
+      "createdAt": "2026-10-15T01:09:58.568Z"
     }
   ]
 }
