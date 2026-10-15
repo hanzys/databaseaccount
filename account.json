@@ -22,12 +22,6 @@
       "username": "vero",
       "role": "developer",
       "accountKey": "B53F7499D47F90A8F7"
-    },
-    {
-      "id": "d2523ea6-eb2f-4ee3-a2db-6d7d3ad3a516",
-      "username": "pler",
-      "role": "reseller",
-      "accountKey": "19862954E54937CE15"
     }
   ],
   "roles": {
@@ -87,6 +81,13 @@
       "action": "DELETE_ACCOUNT",
       "detail": "japar",
       "createdAt": "2026-10-15T01:15:32.110Z"
+    },
+    {
+      "id": "c2abf0db-c3ce-42d6-9ffd-394e0c2dd057",
+      "actorId": "8724358514",
+      "action": "DELETE_ACCOUNT",
+      "detail": "pler",
+      "createdAt": "2026-10-15T01:15:42.015Z"
     }
   ]
 }
