@@ -28,12 +28,6 @@
       "username": "pler",
       "role": "reseller",
       "accountKey": "19862954E54937CE15"
-    },
-    {
-      "id": "78883156-45e0-4fc1-bb48-d2006b075fc1",
-      "username": "japar",
-      "role": "reseller",
-      "accountKey": "FCD7330C69E51B031C"
     }
   ],
   "roles": {
@@ -86,6 +80,13 @@
       "action": "SET_ROLE",
       "detail": "8394348261: owner",
       "createdAt": "2026-10-15T01:12:36.493Z"
+    },
+    {
+      "id": "3dfa1062-0c90-48e9-9748-54d3f1a6f1e9",
+      "actorId": "8724358514",
+      "action": "DELETE_ACCOUNT",
+      "detail": "japar",
+      "createdAt": "2026-10-15T01:15:32.110Z"
     }
   ]
 }
