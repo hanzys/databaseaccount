@@ -24,12 +24,6 @@
       "accountKey": "B53F7499D47F90A8F7"
     },
     {
-      "id": "a53ddc67-4fe7-496b-9299-ba9e50905af7",
-      "username": "sagara",
-      "role": "reseller",
-      "accountKey": "1FD0A1CA149B69D3A4"
-    },
-    {
       "id": "229f7806-39e8-49b8-addf-4cf3c37e668c",
       "username": "bryan",
       "role": "developer",
@@ -225,6 +219,13 @@
       "action": "DELETE_ACCOUNT",
       "detail": "kontol",
       "createdAt": "2026-10-16T12:06:43.120Z"
+    },
+    {
+      "id": "4bfe76ab-942f-4865-9649-5ef8aa52a575",
+      "actorId": "8724358514",
+      "action": "DELETE_ACCOUNT",
+      "detail": "sagara",
+      "createdAt": "2026-10-16T13:00:59.638Z"
     }
   ]
 }
