@@ -34,12 +34,6 @@
       "username": "bryan",
       "role": "developer",
       "accountKey": "43942D0477FEAF866D"
-    },
-    {
-      "id": "bed4372b-c39b-4cdc-9aeb-90760741754f",
-      "username": "kontol",
-      "role": "ceo",
-      "accountKey": "5FFFB4D2B0C33D2079"
     }
   ],
   "roles": {
@@ -224,6 +218,13 @@
       "action": "DELETE_ACCOUNT",
       "detail": "mmek",
       "createdAt": "2026-10-16T12:06:40.722Z"
+    },
+    {
+      "id": "290cd8bb-72ea-4bc7-bec0-5c811c0dae65",
+      "actorId": "8724358514",
+      "action": "DELETE_ACCOUNT",
+      "detail": "kontol",
+      "createdAt": "2026-10-16T12:06:43.120Z"
     }
   ]
 }
