@@ -8,7 +8,7 @@
   "usage": {
     "1180873542": 1,
     "8724358514": 8,
-    "8924133614": 2
+    "8924133614": 3
   },
   "accounts": [
     {
@@ -40,6 +40,12 @@
       "username": "kontol",
       "role": "ceo",
       "accountKey": "5FFFB4D2B0C33D2079"
+    },
+    {
+      "id": "7f30b778-54ae-4986-990c-7a0227d0ec03",
+      "username": "mmek",
+      "role": "ceo",
+      "accountKey": "2E2DC8F557306938E5"
     }
   ],
   "roles": {
@@ -210,6 +216,13 @@
       "action": "CREATE_ACCOUNT",
       "detail": "kontol",
       "createdAt": "2026-10-16T11:45:53.728Z"
+    },
+    {
+      "id": "23d00087-6367-4ff0-9c1f-78d82b2d6752",
+      "actorId": "8924133614",
+      "action": "CREATE_ACCOUNT",
+      "detail": "mmek",
+      "createdAt": "2026-10-16T11:46:28.243Z"
     }
   ]
 }
