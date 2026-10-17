@@ -8,7 +8,7 @@
   "usage": {
     "1180873542": 1,
     "8724358514": 8,
-    "8924133614": 3
+    "8924133614": 4
   },
   "accounts": [
     {
@@ -28,6 +28,12 @@
       "username": "bryan",
       "role": "developer",
       "accountKey": "43942D0477FEAF866D"
+    },
+    {
+      "id": "497e1fbb-8b29-4222-8099-68119c7e31db",
+      "username": "koktol",
+      "role": "reseller",
+      "accountKey": "14B95A13A88DA57840"
     }
   ],
   "roles": {
@@ -226,6 +232,13 @@
       "action": "DELETE_ACCOUNT",
       "detail": "sagara",
       "createdAt": "2026-10-16T13:00:59.638Z"
+    },
+    {
+      "id": "baaa669c-78df-4d95-a198-eb73cb12deba",
+      "actorId": "8924133614",
+      "action": "CREATE_ACCOUNT",
+      "detail": "koktol",
+      "createdAt": "2026-10-17T01:01:22.723Z"
     }
   ]
 }
