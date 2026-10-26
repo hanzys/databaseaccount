@@ -16,5 +16,14 @@
     "passwordHash": "eb860a5dbeb48a91426d14ba358c1963be2b48aae5a194bbaf1d3dd505ff3ba0",
     "createdAt": "2026-10-26T07:15:23.241Z",
     "status": "active"
+  },
+  {
+    "id": "8d33e8c8-3f9d-4d06-8778-7881a1f18dbc",
+    "name": "kyzok",
+    "username": "kyzok",
+    "email": "cintaapajarr@gmail.com",
+    "passwordHash": "eb860a5dbeb48a91426d14ba358c1963be2b48aae5a194bbaf1d3dd505ff3ba0",
+    "createdAt": "2026-10-26T07:18:24.841Z",
+    "status": "active"
   }
 ]
