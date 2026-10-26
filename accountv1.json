@@ -1,0 +1,11 @@
+[
+  {
+    "id": "account-id",
+    "name": "Contoh Pengguna",
+    "username": "contoh_01",
+    "email": "contoh@email.com",
+    "passwordHash": "hash-password",
+    "createdAt": "2026-10-26T04:00:00.000Z",
+    "status": "active"
+  }
+]
