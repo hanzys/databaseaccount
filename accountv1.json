@@ -7,5 +7,14 @@
     "passwordHash": "hash-password",
     "createdAt": "2026-10-26T04:00:00.000Z",
     "status": "active"
+  },
+  {
+    "id": "97d301a5-9d3d-4569-b346-e84bab1af6d7",
+    "name": "kyzoo",
+    "username": "kyzoo",
+    "email": "japaralokslebeww@gmail.com",
+    "passwordHash": "eb860a5dbeb48a91426d14ba358c1963be2b48aae5a194bbaf1d3dd505ff3ba0",
+    "createdAt": "2026-10-26T07:15:23.241Z",
+    "status": "active"
   }
 ]
